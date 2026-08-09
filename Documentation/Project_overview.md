@@ -91,7 +91,7 @@ Through these demonstrations, I aim to showcase my ability to:
 
 ##  Project Repository
 
- [View the Complete Olist Business Insights 360 Project on GitHub](PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE)
+ [View the Complete Olist Business Insights 360 Project on GitHub](https://github.com/lalithadc10/Olist-Business-Insights-360.git)
 
 ##  LinkedIn Profile
 
