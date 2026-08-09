@@ -97,7 +97,7 @@ Provides management with a high-level view of:
 - Top-performing product categories
 - Review distribution
 
-  ![Executive Overview](Screenshots/executive%20view.png)
+<img src="Screenshots/Executive_view.png" alt="Executive Overview" width="900"/>
 
   ### 2️⃣ Sales Performance
 
@@ -112,8 +112,7 @@ Key analysis includes:
 - Payment method contribution
 - Installment behavior
 - Weekend vs weekday revenue
-
-- ![Sales Performance](Screenshots/Sales%20view.png)
+![Sales Performance](Screenshots/Sales_view.png)
 
   ### 3️⃣ Finance Performance
 
@@ -125,3 +124,5 @@ Evaluates revenue efficiency and cost behavior through:
 - Payment behavior
 - Profitability indicators
 - Cost trends and financial efficiency
+
+  ![Finance Performance](Screenshots/Finance_view.png)
