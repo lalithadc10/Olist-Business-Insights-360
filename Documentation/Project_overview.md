@@ -13,7 +13,7 @@ The videos demonstrate not only the Power BI dashboard, but also the **business 
 
 A complete walkthrough of the project, covering the business objective, data preparation, data modeling, dashboard design, business analysis, insights, and recommendations.
 
- [Watch the Complete Project Walkthrough on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch the Complete Project Walkthrough on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7488455388049063936-stnn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
