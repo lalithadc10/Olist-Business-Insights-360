@@ -1,5 +1,5 @@
 > **Project Note:**  
-> This is my first full-fledged Power BI business intelligence project built using a public e-commerce dataset. Rather than focusing only on visualization, I approached the project from a business perspective — identifying key business problems, framing analytical questions, analyzing the data, and translating the findings into actionable recommendations.# 🎥 Project Video Demonstrations
+> This is my first full-fledged Power BI business intelligence project built using a public e-commerce dataset. Rather than focusing only on visualization, I approached the project from a business perspective — identifying key business problems, framing analytical questions, analyzing the data, and translating the findings into actionable recommendations.#  Project Video Demonstrations
 
 This section contains short video demonstrations of my **Olist Brazilian E-Commerce Business Insights 360 Dashboard**.
 
@@ -24,7 +24,7 @@ A complete walkthrough of the project, covering the business objective, data pre
 
 This video demonstrates the executive-level view covering revenue, orders, customers, customer ratings, business trends, top-performing states, and product categories.
 
- [Watch Executive Overview on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch Executive Overview on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7488455388049063936-stnn?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
@@ -35,7 +35,7 @@ This video demonstrates the executive-level view covering revenue, orders, custo
 
 This video explores sales performance, product performance, seller activity, payment behavior, installment patterns, and weekday versus weekend revenue.
 
- [Watch Sales Performance Analysis on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch Sales Performance Analysis on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7489623099726999552-6uLv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
@@ -46,18 +46,18 @@ This video explores sales performance, product performance, seller activity, pay
 
 This video focuses on revenue, freight costs, payment behavior, profitability indicators, and financial efficiency.
 
- [Watch Finance Performance Analysis on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch Finance Performance Analysis on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7490273506400649216-JK3b?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
-## 👥 5. Customer & Marketing Insights
+##  5. Customer & Marketing Insights
 
 **Business Question:**  
 > Who are our customers, where are they located, how engaged are they, and what opportunities exist to improve customer growth and satisfaction?
 
 This video covers customer trends, customer geography, product-category demand, review scores, and customer engagement.
 
- [Watch Customer & Marketing Insights on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch Customer & Marketing Insights on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7490982549586853888-961a?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
@@ -68,11 +68,11 @@ This video covers customer trends, customer geography, product-category demand, 
 
 This video analyzes delivered orders, average delivery time, on-time delivery, processing time, regional delivery performance, delivery-time distribution, and estimated versus actual delivery performance.
 
- [Watch Supply Chain & Logistics Analysis on LinkedIn](PASTE_YOUR_LINK_HERE)
+ [Watch Supply Chain & Logistics Analysis on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_dataanalytics-powerbi-supplychain-activity-7491730311769182209-Xgp4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 ---
 
-# 🎯 What These Videos Demonstrate
+#  What These Videos Demonstrate
 
 Through these demonstrations, I aim to showcase my ability to:
 
@@ -89,10 +89,10 @@ Through these demonstrations, I aim to showcase my ability to:
 
 ---
 
-## 📌 Project Repository
+##  Project Repository
 
  [View the Complete Olist Business Insights 360 Project on GitHub](PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE)
 
-## 💼 LinkedIn Profile
+##  LinkedIn Profile
 
-👉 [Connect with me on LinkedIn](PASTE_YOUR_LINKEDIN_PROFILE_LINK_HERE)
+ [Connect with me on LinkedIn](www.linkedin.com/in/jayalalitha-t)
