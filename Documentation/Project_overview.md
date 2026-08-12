@@ -70,7 +70,17 @@ This video analyzes delivered orders, average delivery time, on-time delivery, p
 
  [Watch Supply Chain & Logistics Analysis on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_dataanalytics-powerbi-supplychain-activity-7491730311769182209-Xgp4?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
----
+## 7. Olist Business Insights 360 — Overall Project Overview
+
+**Business Question:**
+
+> How can an e-commerce business use data to understand overall performance, identify key business opportunities, and support better decision-making?
+
+This video provides an overall walkthrough of my **Olist Brazilian E-Commerce Business Insights 360 Dashboard**, covering Executive, Sales, Finance, Customer & Marketing, and Supply Chain & Logistics perspectives.
+
+The project focuses on transforming a public e-commerce dataset into **business-context questions, meaningful analysis, actionable insights, and data-driven recommendations** rather than focusing only on creating visualizations.
+
+[Watch Olist Business Insights 360 — Overall Project Overview on LinkedIn](https://www.linkedin.com/posts/jayalalitha-t_powerbi-dataanalytics-businessintelligence-activity-7493164918444326913-klvq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEoeiWkB0e6-xutgsI8rVOqUojWvjpV3Nzw)
 
 #  What These Videos Demonstrate
 
