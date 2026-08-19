@@ -241,3 +241,8 @@ Key preparation activities included:
 - Creating delivery-related calculations
 - Preparing analytical fields
 - Structuring data for Power BI modeling
+
+  ## 🔗 Connect with Me
+
+**LinkedIn:** *(www.linkedin.com/in/jayalalitha-t)*
+
